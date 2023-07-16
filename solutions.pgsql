@@ -11,3 +11,9 @@ WHERE POPULATION > 120000 AND COUNTRYCODE = 'USA';
 -- (3) Select all
 SELECT *
 FROM CITY;
+
+-- (4) Japanese City Attributes
+SELECT *
+FROM CITY
+WHERE COUNTRYCODE = 'JPN';
+
