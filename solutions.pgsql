@@ -17,5 +17,4 @@ SELECT *
 FROM CITY
 WHERE COUNTRYCODE = 'JPN';
 
-
-
+-- (5) 
